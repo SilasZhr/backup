@@ -1,0 +1,2 @@
+TxHash,BlockNumber,UnixTimestamp,FromAddress,ToAddress,ContractAddress,Type,Value,Fee,Status,ErrCode,CurrentPrice,TxDateOpeningPrice,TxDateClosingPrice
+0xf834cea4ff92f28d2841da274cc91816c0ca610d92597b27aae7faa850f827c5,11830989,2020-09-04 16:55:05.000000Z,0xa852359c5C5091D6f1584b548F5Ac34fc7E7144e,0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb,,IN,0,45799000000000,ok,,1.0,1.019,1.019

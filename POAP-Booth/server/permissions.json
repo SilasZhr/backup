@@ -1,0 +1,12 @@
+{
+	  "type": "service_account",
+	    "project_id": "cedge-poap",
+	      "private_key_id": "976c28b08f9672ec71b9cd3562f51ec8e5414e53",
+	        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDURxqk2ug6NQgh\n/YHEz5OhIEJN10xkj99y24Sc6hFfN9I4IugX4by0l5btgTN0qm1aV7cF9zHvL1+h\n25cTbRn9JVppud73tSdR9G+gXjKny6op3/Dxltz+V+FJgj0ZtXfiiW+aHObIKbXk\nOmdQxAGLBny4u6lft1TRVpGmYQ+74U8F0QIm02Uz9xgGb3XCQVaKLvNIcqOVtA0M\nYnbZ+sniDy3K3J0ZSWpLCR1rtxHHgoMelh9cCw8U7OfXSUzfbkC00sNiTZLmfBMz\nlaqTIedIsGNcLGvovv9STzT1I+Dniaeeyr8nW904lQL93oJDolGIH3JaBg5kS/m+\nW/g/CPmdAgMBAAECggEACFtUPTEw+zmjPFNSjIDveuReN9pF85+GWGsz6Ul9rZXw\n/KzDHk2QtDtTgb4YXHtpGqlhVybIHHZs+V4/sFAXOdQCny7mDDJhfeR1kIakz95A\nsK1UOu6JfKnRAKfT5/Mw6QYoEpUYsMCTnIyADLnqpaJ3vn4EyPParvMNgNNJX0gJ\nCV3TqNBRysZOtY8GEE7QRsMjcP45QXuLXK+SYt1FHs1eq9P5DKB869hcD5UZ4Bh6\nD1HGD5vqvpsbSuf6MrNPNmt6DhDmK0l2O1SQAHfNXAb+O1TJ/lHUklEaD4F4TkSG\nKROHjIAmRXze99QDWoOMJafpgod7dpWZlqIUeVc/sQKBgQDzP3vP4CwJBUKe3yyj\n47P+dDT+I+vqHTomj8EhHZeipcf/Xwy+H/gfYc4hq++p/RJIMsIVRgWIjmDdieaK\nmMwyrfOyyeBEElxgsTa3MOOivX8Y2zi7RYv1yuDfOIFgMKJJLzJxN3W4dj+2Ec4T\nUKAhUW2fbj7amYMKaToEbJKqDwKBgQDfZ/vK0fesDI/PsNAnRN11smmqHZ0f5lZ+\nFFn8MRwcHXhAKaoUGVBYX2EYVOXScBvfp5QAbFlvQU2J53SCgZ8WMK0CJ2ocAc3J\nDc1a30kzGNm/wVjEkiZyS7rmJdwSZwtxuaW8q0PvA+gboyLFnpP7tBvg95YvnjoI\ntgJKAbh9kwKBgQDelOu1hvqkcnTIrYzKlvTAVROcrcAVJRNt78MYi1ySz0IX8qDV\nZKmGBdg6RXtzwAg3moKwNrefgjEu5x3XGwRXJ4fExSd7ApYXQHHB5XGXG/EuDIN4\nEaaFjlSAzdLM8xO9BfwRT19gIIwiDV7Vm8Q7WKiH57iKDUi0gR8+px75jwKBgH+X\n7fDalq/GxOQDwf6LkEhGS58DJtgvP7rmeLZWfg14r1NF+INeKcsvPk8dPd1Adkr4\ndMkBGNs32scmUB6xVWDhEA6o4Ct6xENOBLkfybjLOqIQFVi/eAHTSr1jZhuEir67\nHvNwhW4fNxOByrw/Y5lgNoP4I+iyX8bV3NzTusDNAoGBAMDUNA5tWquACWTEacCt\nbyME0++ggdYNlX0wX5ljb0+4lrLSHTA2XKLx/isX9jW+ghsAEM92yORxnGoqTkAj\nIndOigtUivk6gMoFm3Zlp8Ale+KxL0jBBaID/dvJ7ghq94EWxhrPOTpVBsqRyC+O\nDpulInbNdQV2YCZBq/8mXbaR\n-----END PRIVATE KEY-----\n",
+		  "client_email": "firebase-adminsdk-orutk@cedge-poap.iam.gserviceaccount.com",
+		    "client_id": "112687112167817856907",
+		      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+		        "token_uri": "https://oauth2.googleapis.com/token",
+			  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+			    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-orutk%40cedge-poap.iam.gserviceaccount.com"
+}

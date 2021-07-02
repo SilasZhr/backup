@@ -1,0 +1,6 @@
+--2021-05-15 13:38:45--  https://blockscout.com/xdai/mainnet/transactions-csv?address_id=0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb
+Resolving blockscout.com (blockscout.com)... 2606:4700:20::681a:41, 2606:4700:20::681a:141, 2606:4700:20::ac43:4874, ...
+Connecting to blockscout.com (blockscout.com)|2606:4700:20::681a:41|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-05-15 13:38:45 ERROR 404: Not Found.
+
